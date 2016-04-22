@@ -1,0 +1,22 @@
+
+.nav-link {
+    color: white;
+}
+a:hover {
+    color: gray;
+}
+
+nav ul {
+    padding-right: 15px;
+}
+
+img {
+    height: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+
+p {
+    text-align: center;
+}
